@@ -1,18 +1,18 @@
 Dear Alex,
 
-Today I think I fell in love! Oh woe<br>
-though that she is a priestess from<br>
-the Sisters of Honor cloister.<br>
+Today I think I fell in love! Oh woe
+though that she is a priestess from
+the Sisters of Honor cloister.
 
-You should see her. Flaxen hair<br>
-that cascades in waves down her<br>
-back to her trim waist. Her eyes<br>
-are greener than a druid. And oh,<br>
-you should see her wonderfully<br>
-sculpted bust. I believe it is of<br>
-Emperor Reilquios' mother.<br>
+You should see her. Flaxen hair
+that cascades in waves down her
+back to her trim waist. Her eyes
+are greener than a druid. And oh,
+you should see her wonderfully
+sculpted bust. I believe it is of
+Emperor Reilquios' mother.
 
-I hope this letter finds you well,<br>
+I hope this letter finds you well,
 -Sir Bannon
 
 
