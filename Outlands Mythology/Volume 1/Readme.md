@@ -81,7 +81,7 @@ And as thick as his wrist
 And the knob on the end is as big
 as his fist!
 
--Joros Kilmsworth,
+-Joros Kilmsworth,<br>
 Expert Orc Wordsmith
 
 
@@ -110,6 +110,7 @@ The Orc's arse is chapped and crusty
 The Orc's arse is covered in fleas
 To kick an Orc's arse will take an hour
 So get kickin' if'n you please!
+
 -Knights Guild Bawdy Tavern Song
 
 
