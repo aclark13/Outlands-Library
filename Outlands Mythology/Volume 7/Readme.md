@@ -1,4 +1,4 @@
-S.R. = Sosarian Reckoning;<br>
+S.R. = Sosarian Reckoning;
 Pre-cataclysm and ancient
 Sosarian times.
 
