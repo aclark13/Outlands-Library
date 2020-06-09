@@ -71,3 +71,9 @@ A collection of the text from the lore tomes that can be found in game on Ultima
 [Creatures of Pluma](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Dungeon%20Creatures/Creatures%20of%20Pluma)
 
 [Creatures of The Mausoleum](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Dungeon%20Creatures/Creatures%20of%20The%20Mausoleum)
+
+# Notice
+
+All content provided here is proptery of UO:Outlands.  It has been provided with permission, and should not be reused in any way shape of form for other projects.
+
+Please visit http://www.uooutlands.com to find out more about this great Ultima Online shard.
