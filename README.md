@@ -1,6 +1,6 @@
 # Outlands Lore Tomes
 
-A collection of the text from the lore tomes that can be found in game on Ultima Online Oulands.
+A collection of the text from the lore tomes that can be found in game, on Ultima Online Oulands.
 
 ## Town History
 
