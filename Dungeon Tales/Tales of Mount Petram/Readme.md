@@ -17,7 +17,7 @@ and She just tells me but riddles.
 
 
 
-
+---
 
 
 
@@ -44,6 +44,7 @@ their lips.
 
 
 
+---
 
 
 
@@ -67,6 +68,7 @@ but She is yet the same.
 
 
 
+---
 
 
 
@@ -94,6 +96,7 @@ did once before.
 
 
 
+---
 
 
 
@@ -118,6 +121,8 @@ wants me to see.
 
 
 
+---
+---
 
 
 
@@ -145,6 +150,7 @@ She calls to me still.
 
 
 
+---
 
 
 
@@ -168,6 +174,7 @@ She is silent.
 
 
 
+---
 
 
 
@@ -194,6 +201,7 @@ this gem needs to be hidden.
 
 
 
+---
 
 
 
@@ -218,6 +226,7 @@ And so I shall.
 
 
 
+---
 
 
 
