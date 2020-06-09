@@ -2,6 +2,38 @@
 
 A collection of the text from the lore tomes that can be found in game on Ultima Online Oulands.
 
+## Town History
+
+History of Andaria](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Andaria)
+
+History of Cambria](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Cambria)
+
+History of Corpse Creek](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Corpse%20Creek)
+
+History of Horseshoe Bay](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Horseshoe%20Bay)
+
+History of Outpost](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Outpost)
+
+History of Prevalia](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Prevalia)
+
+History of Terran](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Terran)
+
+## Outlands Mythology
+
+[Volume 1](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Outlands%20Mythology/Volume%201)
+
+[Volume 2](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Outlands%20Mythology/Volume%202)
+
+[Volume 3](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Outlands%20Mythology/Volume%203)
+
+[Volume 4](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Outlands%20Mythology/Volume%204)
+
+[Volume 5](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Outlands%20Mythology/Volume%205)
+
+[Volume 6](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Outlands%20Mythology/Volume%206)
+
+[Volume 7](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Outlands%20Mythology/Volume%207)
+
 ## Dungeon Tales
 
 [Tales of Aegis Keep](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Dungeon%20Tales/Tales%20of%20Aegis%20Keep)
