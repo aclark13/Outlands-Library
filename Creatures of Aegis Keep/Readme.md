@@ -1,4 +1,4 @@
-Gremlins
+**Gremlins**
 
 Diminutive and feeble,
 Gremlins typically resort to
@@ -19,10 +19,10 @@ often sends the desired message.
 
 
 
+---
 
 
-
-Goblins
+**Goblins**
 
 Slightly larger than their
 Gremlin relatives, Goblins
@@ -39,11 +39,11 @@ infamously poor personal
 hygiene.
 
 
+---
 
 
 
-
-Kobolds
+**Kobolds**
 
 The most intelligent of the
 Goblinoid family, Kobolds
@@ -62,10 +62,10 @@ savory ingredients.
 
 
 
+---
 
 
-
-Wolfhounds
+**Wolfhounds**
 
 The result of a long process of
 selective breeding, Wolfhounds
@@ -83,11 +83,11 @@ employ of other beings willing
 to embrace their savage nature.
 
 
+---
 
 
 
-
-Claymen
+**Claymen**
 
 Little is known of Claymen,
 however many popular theories
@@ -108,10 +108,10 @@ misery and foulness in mud form.
 
 
 
+---
 
 
-
-Coagulator
+**Coagulator**
 
 Less a creature than a
 haphazardly combined pile of
@@ -130,10 +130,10 @@ thing.
 
 
 
+---
 
 
-
-Chaos Footman
+**Chaos Footman**
 
 It is popular belief that in
 places of strife, suffering, and
@@ -154,10 +154,10 @@ anything within inhuman reach.
 
 
 
+---
 
 
-
-Chaos Warriors
+**Chaos Warriors**
 
 When armies clash, chaos
 and terror follows in its wake.
@@ -177,11 +177,11 @@ violence to any being it lays
 sight upon.
 
 
+---
 
 
 
-
-Chaos Knights
+**Chaos Knights**
 
 When all thought of peace and
 conciliation between men has
@@ -201,11 +201,11 @@ creatures, as if their eagerness
 for death takes a life of its own.
 
 
+---
 
 
 
-
-Doppelganger
+**Doppelganger**
 
 Equal parts mischief and
 malevolence, the Doppelganger
@@ -226,10 +226,10 @@ or a delightful diversion.
 
 
 
+---
 
 
-
-Garou
+**Garou**
 
 One could fill entire volumes on
 the robust culture and history of
@@ -249,11 +249,11 @@ they administer among 'Were'
 society.
 
 
+---
 
 
 
-
-Aegis Nobles
+**Aegis Nobles**
 
 Life eternal. Considered by
 many the greatest gift one could
@@ -270,9 +270,9 @@ eternity.
 
 
 
+---
 
-
-Aegis Cultists
+**Aegis Cultists**
 
 It is not known whether the
 Cult of Aegis preceded the great
@@ -292,11 +292,11 @@ Fervent and unrelenting, they
 live only to serve the keep.
 
 
+---
 
 
 
-
-Sanguineous
+**Sanguineous**
 
 Among the fiercest of the
 knights of Aegis Keep, none
@@ -315,12 +315,12 @@ thirst for blood and carnage.
 As so Sir Guinous became ever
 known as Sanguineous.
 
+---
 
 
 
 
-
-Aegis High Priestess
+**Aegis High Priestess**
 
 She came to the keep in the guise
 of a simple priestess, and
