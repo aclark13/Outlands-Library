@@ -4,19 +4,19 @@ A collection of the text from the lore tomes that can be found in game on Ultima
 
 ## Town History
 
-History of Andaria](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Andaria)
+[History of Andaria](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Andaria)
 
-History of Cambria](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Cambria)
+[History of Cambria](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Cambria)
 
-History of Corpse Creek](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Corpse%20Creek)
+[History of Corpse Creek](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Corpse%20Creek)
 
-History of Horseshoe Bay](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Horseshoe%20Bay)
+[History of Horseshoe Bay](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Horseshoe%20Bay)
 
-History of Outpost](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Outpost)
+[History of Outpost](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Outpost)
 
-History of Prevalia](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Prevalia)
+[History of Prevalia](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Prevalia)
 
-History of Terran](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Terran)
+[History of Terran](https://github.com/aclark13/Outlands-Lore-Tomes/tree/master/Town%20History/History%20of%20Terran)
 
 ## Outlands Mythology
 
