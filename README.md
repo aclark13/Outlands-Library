@@ -74,6 +74,6 @@ A collection of the text from the lore tomes that can be found in game on Ultima
 
 # Notice
 
-All content provided here is proptery of UO:Outlands.  It has been provided with permission, and should not be reused in any way shape of form for other projects.
+All content provided here is proptery of UO:Outlands.  It has been provided with permission, and should not be reused in any way, shape, or form for other projects.
 
 Please visit http://www.uooutlands.com to find out more about this great Ultima Online shard.
