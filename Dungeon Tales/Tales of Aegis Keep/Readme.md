@@ -18,7 +18,7 @@ I hope this letter finds you well,
 
 
 
-
+---
 
 
 
@@ -42,7 +42,7 @@ wonder what is going on...
 
 
 
-
+---
 
 
 
@@ -69,7 +69,7 @@ am certainly open to hearing it!
 
 
 
-
+---
 
 
 
@@ -92,7 +92,7 @@ my love is stronger than his sword.
 -Sir Bannon
 
 
-
+---
 
 
 
@@ -119,7 +119,7 @@ would she want it for?
 
 
 
-
+---
 
 
 
@@ -143,7 +143,7 @@ priestess than their duties.
 
 
 
-
+---
 
 
 
@@ -169,7 +169,7 @@ and they've not been seen.
 
 
 
-
+---
 
 
 
@@ -195,7 +195,7 @@ Sir Guinous. I know not what to do.
 
 
 
-
+---
 
 
 
@@ -219,7 +219,7 @@ the halls at all hours.
 
 
 
-
+---
 
 
 
@@ -239,4 +239,5 @@ to flee this wretched place tonight.
 If you do not hear from me again,
 assume that I was caught trying
 to escape. Be well, Alex...
+
 -Sir Bannon the Last One Left
